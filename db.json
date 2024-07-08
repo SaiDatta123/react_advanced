@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "46ec",
+      "name": "DattaSai",
+      "role": "Admin",
+      "status": "Active",
+      "email": "saidatta@gmail.com",
+      "creationDate": "2024-07-07"
+    },
+    {
+      "id": "3d8f",
+      "name": "Hanuman",
+      "role": "Member",
+      "status": "Pending",
+      "email": "hanuman@gmail.com",
+      "creationDate": "2024-07-08"
+    },
+    {
+      "id": "93b3",
+      "name": "Ram",
+      "role": "Member",
+      "status": "Banned",
+      "email": "ram@gmail.com",
+      "creationDate": "2024-07-08"
+    }
+  ]
+}
